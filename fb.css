@@ -234,3 +234,15 @@ p{
   .tooltip:hover .tooltiptext {
     visibility: visible;
   }
+.submit{
+    background: linear-gradient(rgba(23, 78, 23, 0.349),green);
+    margin-top: 5px;
+    border-radius: 5px;
+    font-size: 19px;
+    font-weight: 600;
+    width: 200px;
+    height: 40px;
+    color: #fff;
+    border: rgb(9, 109, 9) solid 0.5px;
+    padding: 5px 20px;
+  }
